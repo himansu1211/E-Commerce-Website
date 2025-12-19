@@ -1,4 +1,4 @@
-# SHOPLANE - E-commerce Website
+# SHOPCART - E-commerce Website
 
 A static e-commerce website built with HTML, CSS, and JavaScript, featuring product browsing, shopping cart functionality, and a responsive design.
 
@@ -85,4 +85,5 @@ No server setup is required as this is a static website.
 - **Created by**: Himansu Kumar Sahu
 - **Icons**: Font Awesome
 - **Fonts**: Google Fonts
+
 
